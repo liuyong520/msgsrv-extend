@@ -1,0 +1,13 @@
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\registratar\Request.java
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\anotation\MsgSrvCommand.java
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\anotation\MsgSrvComponentScan.java
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\registratar\MsgSrvBeanDefinitionRegistrar.java
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\config\MsgSrvConfig.java
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\registratar\Handler.java
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\registratar\MsgSrvSpringProviderBean.java
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\filter\MsgSrvTypeFilter.java
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\handler\DefaultMsgHandler.java
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\registratar\MsgSrvBeanPostProcessor.java
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\handlerMappings\HandlerMappingsManager.java
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\registratar\MsgSrvHandler.java
+F:\msgsrvextend\src\main\java\com\nnk\msgsrv\anotation\MsgSrvComponent.java

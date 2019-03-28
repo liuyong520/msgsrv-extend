@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<server-conf>
+	<server-name>年年卡-弘创上游充值接口服务</server-name>
+
+	<app-name>HongChuangRechargeSrv</app-name>
+	<user>HongChuangSrvUser</user>
+	<pwd>HongChuangSrvPwd</pwd>
+	<!-- <enc-pwd>6nGyDEHhMf/X9BDEXBT7aA==</enc-pwd> -->
+
+	<host>10.1.100.250</host>
+	<port>6004</port>
+	<link-time>3000</link-time>
+	<selector-timeout>1000</selector-timeout>
+	<pulse-time>600000</pulse-time>
+
+	<!-- 长连接可以配置apps来进行反射调用，短连接可以省略此项 -->
+	<apps>
+		<!-- name或者cmd为*则可以匹配任意，注意先后顺序 -->
+		<app name="*" cmd="*" class="com.nnk.msgsrv.handler.DefaultMsgHandler" method="handler" />
+	</apps>
+</server-conf>
